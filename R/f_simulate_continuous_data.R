@@ -4,11 +4,11 @@
 #' Get Simulated Two Arm Means
 #'
 #' @description
-#' Simulates and returns a normally distributed continuous dataset for two
-#' groups.
+#' Simulate and return a normally distributed continuous dataset for two groups.
 #'
 #' @param n1 a single integer value. The sample size of group 1.
 #' TODO document all arguments
+#' @param n2 a single integer value. The sample size of group 2.
 #'
 #' @details
 #' TODO describe
